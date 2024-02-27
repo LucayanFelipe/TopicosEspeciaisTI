@@ -1,0 +1,19 @@
+p {
+    color: red;
+    background-color: black;
+    font-size: 12px;
+}
+
+h1 {
+    border: 10px;
+    border: 10px solid red;
+}
+h2 {
+    border: 15px;
+    border: 20px solid green;
+}
+h3{
+    border: 30px;
+    border: 40px solid purple;
+}
+
